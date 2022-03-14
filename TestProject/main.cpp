@@ -12,5 +12,12 @@ int main() {
 	cout << "＃＠☆★";
 	cout << "＃＠☆★";
 
+
+	char msg[256] = "";
+
+	cin >> msg;
+
+	cout << msg;
+
 	return 0;
 }
